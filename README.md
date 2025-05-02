@@ -18,7 +18,7 @@
 
 Here are some of the projects I've worked on:
 
-- 📊 **Airbnb Price effets from Demographics and Listings** – Performed model selection with regression analysis to uncover insights in airbnb for Asheville, NC (R, Tableau)
+- 📊 **Airbnb Price effects from Demographics and Listings** – Performed model selection with regression analysis to uncover insights in airbnb for Asheville, NC (R, Tableau)
 - 🔍 **Ne X Collision with Faraday Cup** –  Used data science process for x-ray spectroscopy results in correlation to Faraday Cup Surface (R, Excel)
 - 💡 **Sleep Study Regression Analysis** – Used SLR and multiple linear regression methods to understand how sleep affects stress and quality of life. (R, Flexdashboard)
 
