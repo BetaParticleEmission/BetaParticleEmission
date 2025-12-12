@@ -9,8 +9,8 @@
 - **Languages & Scripting:** Python, R, SQL 
 - **Data Handling & Analysis:** Excel, SAS, MongoDB  
 - **Visualization Tools:** Tableau, Excel  
-- **Version Control & Collaboration:** Git, GitHub, Kanbam
-- **Other:** Machine Learning, Preditive Analytics, Numpy, Pandas, Scikit-learn, Business Analytics 
+- **Version Control & Collaboration:** Git, GitHub, Kanban
+- **Other:** Machine Learning, Preditive Analytics, Numpy, Pandas, Scikit-learn, Business Analytics, Project Management, Statistics, Physics 
 
 ---
 
