@@ -25,10 +25,11 @@ I am a graduate of data science and physics seeking opportunities in nuclear/rad
 - **Version Control & Collaboration:** Git, GitHub, Kanban
 - **Other:** Linux, LaTeX, Text Mining, ArcGIS, Machine Learning, Preditive Analytics, Business Analytics, Project Management, Modeling, Welding, Soldering, KiCAD, 3D Printing
 
-### Culminative Education plus Work (Descriptive)
+### Cumulative Experience and Knowledge (Descriptive)
 
 Knowledge of the following areas: 
 - Physics(E&M, Mechanics, Thermodynamics, Quantum, Nuclear, Atomic)
+- Radioecology(Dosage, Radiation Safety, Radiation Detectors, Biological Damage) 
 - Data Science Methods/Frameworks(OSEMN, CRISP-DM, Machine Learning, Modeling/Simulation, Model Selection and Evaluation, Data Analysis)
 - Advanced Mathematics(Statistics, Linear Algebra, Cryptography, Calculus)
 - Biomedical Sciences: AIT PLTW(Anatomy, Physiology, Neuroscience) 
@@ -48,8 +49,10 @@ enabling clear communication of trends and model results in a team setting.
 - 💡 **Interactive Reactor Physics Simulation Application** – Built an interactive reactor physics simulation dashboard using Python and Streamlit to model real-time BWR state changes and system behavior. Implemented dynamic parameter controls to simulate system responses and
 visualize changes in reactor conditions. Applied numerical modeling and nuclear physics principles to
 approximate reactor dynamics and support real-time analysis.
+- 👨🏽‍💻 **Seeeduino Module Design** - Designed a schematic for a Seeeduino XIAO microcontroller module using KiCad to support embedded system
+prototyping. Developed circuit layouts integrating key components for data acquisition and control in a research
+setting. Utilized version control with GitHub to manage design iterations and documentation.
 
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BetaParticleEmission&theme=dark&background=000000)](https://git.io/streak-stats)
-
