@@ -15,7 +15,7 @@
 ---
 ## About Me: 
 
-I am a graduate of data science and physics seeking opportunities in nuclear/radiation related fields like nuclear engineering, radiation physics, and reactor physics. 
+I am a graduate of data science and physics seeking opportunities in nuclear/radiation related fields like nuclear engineering, radiation physics, reactor physics, and medical radiation physics. 
 
 ### 🔧 Technical Skills
 
