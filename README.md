@@ -28,13 +28,14 @@ I am a graduate of data science and physics seeking opportunities in data scienc
 ### Cumulative Experience and Knowledge (Descriptive)
 
 Knowledge of the following areas: 
-- Physics(E&M, Mechanics, Thermodynamics, Quantum, Nuclear, Atomic)
+- Physics(Electrodynamics, Mechanics, Thermodynamics, Quantum Physics, Nuclear, Atomic)
 - Radioecology(Dosage, Radiation Safety, Radiation Detectors, Biological Damage) 
 - Data Science Methods/Frameworks(OSEMN, CRISP-DM, Machine Learning, Modeling/Simulation, Model Selection and Evaluation, Data Analysis)
-- Advanced Mathematics(Statistics, Linear Algebra, Cryptography, Calculus)
+- Advanced Mathematics(Probability&Statistics, Linear Algebra, Cryptography, Calculus)
 - Biomedical Sciences: AIT PLTW(Anatomy, Physiology, Neuroscience) 
 - Accreditation Processes(Accreditation Development, FASFA Requirements, Policy Coordination)
-- Electronics(Circuit Analysis, Arudino, PCB Design) 
+- Electronics(Circuit Analysis, Arudino, PCB Design)
+- Deep Learning(CNNs, Image Classification, Model Validation) 
 ---
 
 ### 🚀 Data Science Projects
