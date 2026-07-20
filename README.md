@@ -42,14 +42,14 @@ Knowledge of the following areas:
 
 Here are some of the projects I've worked on:
 
-- 🔍 **Ne X Collision with Faraday Cup** –  Conducted x-ray spectroscopy analysis for Neon 9+ atoms colliding with a Faraday Cup’s surface which
+- 🔍 **Ne X Collision with Faraday Cup** -  Conducted x-ray spectroscopy analysis for Neon 9+ atoms colliding with a Faraday Cup’s surface which
 identified energy levels of 800-900 electronvolts to match metals in NIST databases.
 - 🔭 **Pulsar Classification** - Produced effective results for pulsar predictive analytics using random forest classifier, search cross validation methods for hyperparameter selection, and
 recursive feature elimination for feature selection. Used Dash with plotly express to create a dashboard showing the results of the machine learning model. 
-- 📊 **Airbnb Price effects from Demographics and Listings** – Analyzed a dataset of 3,000 Airbnb listings using EDA and regression modeling to identify significant demographic and geographic drivers of pricing. Developed and evaluated predictive models, improving
+- 📊 **Airbnb Price effects from Demographics and Listings** - Analyzed a dataset of 3,000 Airbnb listings using EDA and regression modeling to identify significant demographic and geographic drivers of pricing. Developed and evaluated predictive models, improving
 understanding of feature importance and price variation across regions. Visualized key insights with Tableau,
 enabling clear communication of trends and model results in a team setting.
-- 💡 **Interactive Reactor Physics Simulation Application** – Built an interactive reactor physics simulation dashboard using Python and Streamlit to model real-time BWR state changes and system behavior. Implemented dynamic parameter controls to simulate system responses and
+- 💡 **Interactive Reactor Physics Simulation Application** - Built an interactive reactor physics simulation dashboard using Python and Streamlit to model real-time BWR state changes and system behavior. Implemented dynamic parameter controls to simulate system responses and
 visualize changes in reactor conditions. Applied numerical modeling and nuclear physics principles to
 approximate reactor dynamics and support real-time analysis.
 - 👨🏽‍💻 **Seeeduino Module Design** - Designed a schematic for a Seeeduino XIAO microcontroller module using KiCad to support embedded system
