@@ -23,7 +23,7 @@ I am a graduate of data science and physics seeking opportunities in data scienc
 - **Data Handling & Analysis:** Excel, SAS, MongoDB  
 - **Visualization Tools:** Tableau, PowerBI, Python  
 - **Version Control & Collaboration:** Git, GitHub, Kanban
-- **Other:** Linux, LaTeX, Text Mining, ArcGIS, Machine Learning, Preditive Analytics, Business Analytics, Project Management, Modeling, Welding, Soldering, KiCAD, 3D Printing
+- **Other:** Linux, LaTeX, Text Mining, ArcGIS, Machine Learning, Preditive Analytics, Business Analytics, Project Management, Modeling, Welding, Soldering, KiCAD, 3D Printing, 
 
 ### Cumulative Experience and Knowledge (Descriptive)
 
@@ -44,6 +44,8 @@ Here are some of the projects I've worked on:
 
 - 🔍 **Ne X Collision with Faraday Cup** –  Conducted x-ray spectroscopy analysis for Neon 9+ atoms colliding with a Faraday Cup’s surface which
 identified energy levels of 800-900 electronvolts to match metals in NIST databases.
+- 🔭 **Pulsar Classification** - Produced effective results for pulsar predictive analytics using random forest classifier, search cross validation methods for hyperparameter selection, and
+recursive feature elimination for feature selection. Used Dash with plotly express to create a dashboard showing the results of the machine learning model. 
 - 📊 **Airbnb Price effects from Demographics and Listings** – Analyzed a dataset of 3,000 Airbnb listings using EDA and regression modeling to identify significant demographic and geographic drivers of pricing. Developed and evaluated predictive models, improving
 understanding of feature importance and price variation across regions. Visualized key insights with Tableau,
 enabling clear communication of trends and model results in a team setting.
